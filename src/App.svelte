@@ -1,4 +1,8 @@
 <script>
+  // svelte curso
+  // https://www.youtube.com/watch?v=gjqpEwISXlw&list=PLTd5ehIj0goM-5mQxXLmCr5nHZX_yc2QT&index=18
+  // curso fazt con deploy
+  // https://www.youtube.com/watch?v=liwD_GPysZs
   import Character from "./lib/Character.svelte";
 
   let current_page = 1;
